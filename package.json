@@ -1,0 +1,41 @@
+{
+    "name": "utillites",
+    "version": "1.0.0",
+    "description": "Cloud",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "!Sky",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "^0.5.3",
+        "auth": "^0.0.9",
+        "axios": "^0.21.1",
+        "axios-cookiejar-support": "^1.0.1",
+        "callback": "^0.0.1",
+        "center-align": "^1.0.1",
+        "chalk": "^4.1.1",
+        "colors": "^0.3.0",
+        "commands": "^0.0.7",
+        "common-tags": "^1.8.0",
+        "console-title": "^1.1.0",
+        "discord-buttons": "^3.2.1",
+        "discord-xp": "^1.1.14",
+        "discord.js": "^12.5.3",
+        "distube": "^2.8.15",
+        "epicgames-client-login-adapter": "^0.1.2",
+        "ffmpeg-static": "^4.3.0",
+        "http": "^0.0.1-security",
+        "mal-scraper": "^2.11.3",
+        "mongoose": "^5.12.13",
+        "ms": "^2.1.3",
+        "ping": "^0.4.1",
+        "pretty-ms": "^7.0.1",
+        "readline": "^1.3.0",
+        "request": "^2.88.2",
+        "slappey": "^3.0.0",
+        "tough-cookie": "^4.0.0",
+        "ws": "^7.4.6"
+    }
+}
